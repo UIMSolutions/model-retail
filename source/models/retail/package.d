@@ -14,7 +14,7 @@ public import uim.oop;
 public import uim.entities;
 
 // model packages
-public import models.retail.retail;
+public import models.retail.attributes;
 public import models.retail.classes;
 public import models.retail.elements;
 public import models.retail.entities;
